@@ -35,8 +35,20 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
 ## 💡 Key Insights
 - Identified top-performing product categories
+
+  <img width="276" height="309" alt="popular product" src="https://github.com/user-attachments/assets/7cda5cd7-1d5d-49d0-a1c8-4e56c928cc3c" />
+  
+
 - Highlighted regions with highest sales
-- Detected trends in sales performance
+
+  <img width="314" height="300" alt="region wise sales" src="https://github.com/user-attachments/assets/8675f28b-ef50-4f59-b39d-41c0ed17580c" />
+  
+
+- How they like to buy
+
+  <img width="306" height="235" alt="how they like to order" src="https://github.com/user-attachments/assets/f58ace60-1508-4fca-9a4a-10e702de3581" />
+  
+
 
 ## 🚀 Outcome
 This dashboard helps businesses quickly understand sales performance and supports data-driven decision-making.
