@@ -16,6 +16,9 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 - Avg. Rating
 - Avg. Days to Deliver
 
+  <img width="154" height="287" alt="KPIs" src="https://github.com/user-attachments/assets/0d50ba32-b5cd-41e0-b957-37b585d085e3" />
+
+
 
 ## 🔍 Key Analysis
 - Trend in the last 13 weeks
