@@ -50,6 +50,21 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 - How they like to buy
 
   <img width="306" height="235" alt="how they like to order" src="https://github.com/user-attachments/assets/f58ace60-1508-4fca-9a4a-10e702de3581" />
+
+
+ - How long we take to ship the orders
+<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/43bd179d-f420-457a-9822-55aeade5e517" />\
+
+
+- How happy are our customers?
+<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/5e517055-bb47-40b2-8de4-80ff58a68199" />
+
+
+- Where do our customers live?
+<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/b495083b-6c29-4ae8-87f5-548497a4ef91" />
+
+
+
   
 
 
