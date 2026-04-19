@@ -1,15 +1,15 @@
-# 🛒 E-commerce-Dashboard (Excel)
+# E-commerce-Dashboard (Excel)
 
-## 📊 Project Overview
+## Project Overview
 This project focuses on analyzing e-commerce sales data using Microsoft Excel. The goal is to track key business metrics and generate insights to improve decision-making.
 
-## 🛠️ Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - XLOOKUP / INDEX-MATCH
 - Conditional Formatting
 
-## 📂 KPIs
+## KPIs
 - Total Orders
 - Total Quantity
 - Total Amount
@@ -20,7 +20,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
 
 
-## 🔍 Key Analysis
+## Key Analysis
 - Trend in the last 13 weeks
 - How our customers like to buy
 - How many they buy?
@@ -31,12 +31,12 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 - How happy are our customers?
 
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Interactive dashboard using slicers
 - Clean and user-friendly layout
 - Visual representation using charts and graphs
 
-## 💡 Key Insights
+## Key Insights
 - Identified top-performing product categories
 
   <img width="276" height="309" alt="popular product" src="https://github.com/user-attachments/assets/7cda5cd7-1d5d-49d0-a1c8-4e56c928cc3c" />
@@ -53,5 +53,5 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
   
 
 
-## 🚀 Outcome
+## Outcome
 This dashboard helps businesses quickly understand sales performance and supports data-driven decision-making.
